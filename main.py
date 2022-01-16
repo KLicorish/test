@@ -14,6 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 
-print('lets try one more thing')
+print('test2!!!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
